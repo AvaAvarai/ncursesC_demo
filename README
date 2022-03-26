@@ -1,0 +1,8 @@
+=========================
+# ncursesC_demo project #
+=========================
+
+### Goal: create a roguelike in C with nCurses
+### Refs: [NCURSES HOWTO](https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/index.html)
+
+### Note: stdscr size is 80x24
